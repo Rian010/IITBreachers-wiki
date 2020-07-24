@@ -111,4 +111,23 @@ p0i5on:
   linkedin  : lakshya-k-5b2639136
   github    : p0i5on8
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  
+zer0: 
+  type      : "person"
+  name      : zer0
+  url       : https://zer0h6cks.blogspot.com/
+  avatar    : https://avatars2.githubusercontent.com/u/45014112?s=460&u=f90fa260f1f4bb5c3c994b20d4af559187f9304b&v=4
+  bio       : zer0 h6cks 3v3rything.
+  email     : zer0.h6ck@gmail.com
+  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  linkedin  : #
+  github    : testzer0
+  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
