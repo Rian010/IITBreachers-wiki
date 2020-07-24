@@ -1,5 +1,18 @@
+---
+title: Hacking PS4
+author: zer0
+tags:  exploit vulnerability hackerone
+aside:
+  toc: true
+sidebar:
+  nav: layouts
+excerpt_separator: <!--more-->
+key: hackingps4
+---
+
 # Hacking PCs is so 2000, let's hack a PS4!
 Okay, hacking PCs is not so 2000s but still, for my first blog post here I decided to spice things up and show you guys a (now patched) race vulnerability that can be used for a local privilege escalation attack on the PS4 (and also FreeBSD 9 and 12).
+<!--more-->
 I'm zer0 (Adithya Bhaskar) and in my blog posts I intend to cover real-world exploits and malware. 
 Now, I must clarify (though it is obvious) that I did not find this bug. It was found by 'theflow0' and this post is largely an analysis of his exploit code published on [exploit-db](https://www.exploit-db.com/exploits/48644). Furthermore, I had no intention of damaging my PS4 and I could also not find the vulnerable version of FreeBSD (once they patch a version they seldom keep older versions open for download) for my VM and thus this analysis is going to be fully static (as will many of the others, due to the same reason).
 Nevertheless there are some interesting techniques at play here, so let's get started.
@@ -288,12 +301,12 @@ victim_sock = spray_sock[idx];
   printf("[+] Done.\n");
   return 0;
 ```
-# Interesting Techniques used
+## Interesting Techniques used
 - A race condition in the kernel leading to a Use-After-Free bug.
 - Building stronger primitives out of weaker ones.
 - Spraying the heap with victim objects to speed up hitting the race condition.
 
-# References
+## References
 - [https://www.exploit-db.com/exploits/48644](https://www.exploit-db.com/exploits/48644)
 - [https://hackerone.com/reports/826026](https://hackerone.com/reports/826026)
- ProTip! Use n and p to navigate betw
+
