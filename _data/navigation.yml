@@ -60,13 +60,14 @@ layouts:
       - title:  Contribute
         url:    /2037/01/01/contributions.html
   - title:      Resources
-    children:   
-      - title:  Reverse Engineering
-        url:    /archive.html?tag=reverse-engineering
+  - title:  Reverse Engineering
+    url:    /archive.html?tag=reverse-engineering
+    children:
       - title: Introduction To Reverse Engineering
         url:   /2020/07/23/Introduction-To-Reverse-Engineering.html
-      - title:  Web
-        url:    /archive.html?tag=web
+  - title:  Web
+    url:    /archive.html?tag=web
+    children:
       - title: Vulnerabilities in Web Applications
         url:   /2020/07/22/Web-Vulnerabilities.html
       - title: Vulnerabilites in Authentication Mechanisms
@@ -83,11 +84,19 @@ layouts:
         url:   /2020/07/22/CSRF.html
       - title: Common CSRF vulnerabilities
         url:   /2020/07/22/CSRF-Vulnerabilities.html
-      - title:  Cryptography
-      - title:  Binary Exploitation 
+  - title:  Cryptography
+  - title:  Binary Exploitation
+    children:
+      - title: Introduction to Binary Exploitation
         url: /2020/07/23/Binary-Exploitation.html
-      - title: Penetration Testing
+  - title: Penetration Testing
+    children:
+      - title: Introduction to Penetration Testing
         url: /2020/07/24/Penetration-Testing.html
+  - title: Bug Bounty analysis
+    children:
+      - title: Hacking PS4
+        url:   /2020/07/24/Hacking-a-PS4.html
   - title:      Assignments
     children:
       - title:  What are assignments
