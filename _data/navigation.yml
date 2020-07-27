@@ -97,6 +97,10 @@ layouts:
     children:
       - title: Hacking PS4
         url:   /2020/07/24/Hacking-a-PS4.html
+  - title: Game Hacking
+    children:
+      - title: Introduction to Game Hacking
+        url:   /2020/07/27/Game-Hack-Introduction.html
   - title:      Assignments
     children:
       - title:  What are assignments
