@@ -1,7 +1,7 @@
 ---
-title: Game Hacking
+title: Writing a CS:GO Bhop Script
 author: Rahul
-tags: binary exploitation
+tags: binary-exploitation
 aside:
   toc: true
 sidebar:
