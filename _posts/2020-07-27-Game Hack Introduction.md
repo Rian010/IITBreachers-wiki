@@ -1,7 +1,7 @@
 ---
-title: Game Hacking
+title: Game Hacking Intoduction
 author: Rahul
-tags: binary-exploitation
+tags: game-hacking
 aside:
   toc: true
 sidebar:
