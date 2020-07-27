@@ -30,7 +30,7 @@ First we need to find certain data-structures in our game's memory. We can assum
 ## Writing Code
 Now we begin to actually writing our script. First we create a class to contain the variables and methods that we need.
 
-```C++
+```c
 
 class Game
 {
@@ -53,7 +53,7 @@ public:
 
 Next, we need a handle to our game (A handle is an object that we can use to access our game inside our script) and find our module i.e "client.dll" inside its memory. To do that we use the standard Windows API.
 
-```C++
+```c
 
 	while (this->window == NULL) 		//Loop till find Game (Game Process may not have started)
 	{
@@ -108,7 +108,7 @@ DWORD Game::GetModuleBase(const char* module_name)
 
 Thirdly, we write a function to check if our player is on the ground or in the air.
 
-```C++
+```c
 
 //Check if player is on ground
 bool Game::OnGroundCheck()
@@ -127,7 +127,7 @@ bool Game::OnGroundCheck()
 
 Then we keep spamming our jump key to constantly keep jumping. We do this using SendMessage function in the Windows API.
 
-```C++
+```c
 
 	while (1)
 	{
@@ -145,7 +145,7 @@ Then we keep spamming our jump key to constantly keep jumping. We do this using 
 ### Putting it all together
 Now all that is left, is to combine everything and add few stdout lines for convenience. Our final code looks like this...
 
-```C++
+```c
 
 //CSGO bhop script (KEEP SPACE PRESSED) (Compile with -fpermissive to neglect typecasting precision loss)
 //Just for fun :P
