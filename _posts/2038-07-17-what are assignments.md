@@ -23,7 +23,7 @@ Also note that all the flags would be case sensitive.
 This is a statically-hosted site, you would not get any points by solving the challenges, imagine virtual pats on completing a challenge or let us know about it in the comments :smile:
 {:.info}
 
-Now its time for you to check out your first task! 
+Now it's time for you to check out your first task!
 
 ## Task1 
 This is just a sample task depicting the flag format i.e. what would a flag look like.  

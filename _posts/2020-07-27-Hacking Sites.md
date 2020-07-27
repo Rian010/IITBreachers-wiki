@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 key: whatarehackingsites
 ---
 There are plethora of challenge/hacking sites where one could find cool challenges any time of the year.  
-Some of them are ranked and have their own scoreboards while others are there just of learning sake.
+Some of them are ranked and have their own scoreboards while others are there just for learning sake.
 <!--more-->
 While one can find running CTFs all year round, CTFs have there own cons
 - The challenges/problems are shortlived. The lifetime of a typical CTF is 2 days and server based challenges would be typically running for a week or two.
@@ -97,7 +97,7 @@ try [archive](http://web.archive.org/web/20190706063734/https://canhack.me/)
 
 ### https://hackburger.ee/challenge/
 The site has been closed
-Again [archieve](http://web.archive.org/web/20171014051812/http://hackburger.ee/challenge/) for help
+Again [archive](http://web.archive.org/web/20171014051812/http://hackburger.ee/challenge/) for help
 
 ### [hacker gateway](https://www.hackergateway.com/)
 General CTF

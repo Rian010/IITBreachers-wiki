@@ -56,7 +56,7 @@ Check out other features in [documentation](https://tianqi.name/jekyll-TeXt-them
 
 ## Creating an assignment
 Assignment will be just another article page, with tasks in it.  
-The files required for the task need to be put into [assignments](assignemts) directory in a directory which is name of the article.  
+The files required for the task need to be put into [assignments](assignments) directory in a directory which is name of the article.  
 For each task, calculate the sha256 of the flag and put it in the `sha256hash` array in frontmatter.  
 Put the tags
 ```

@@ -89,6 +89,8 @@ layouts:
     children:
       - title: Introduction to Binary Exploitation
         url: /2020/07/23/Binary-Exploitation.html
+      - title: Buffer Overflows Part 1
+        url: /2020/07/27/Buffer-Overflow-Part-1.html
   - title: Penetration Testing
     children:
       - title: Introduction to Penetration Testing
