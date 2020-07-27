@@ -1,7 +1,7 @@
 ---
 title: Game Hacking
 author: Rahul
-tags: binary exploitation
+tags: binary-exploitation
 aside:
   toc: true
 sidebar:
