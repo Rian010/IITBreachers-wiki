@@ -20,9 +20,9 @@ We'll learn a lot of stuff, including totally ~~useless~~ awesome assembly, and
 how binaries work :wink:
 <!--more-->
 
-Oh I hope you know what are buffer overflows, for if you don't head over to the [Bin-Exp]({% post_url 2020-07-23-Binary-Exploitation %}) please.
+Oh I hope you know what are buffer overflows, for if you don't head over to the [Bin-Exp]({% post_url 2020-07-23-Binary Exploitation %}) please.
 
-And if you're not familiar with assignments on this wiki, head over to [what are assignments]({% post_url 2038-07-17-what-are-assignments %}).
+And if you're not familiar with assignments on this wiki, head over to [what are assignments]({% post_url 2038-07-17-what are assignments %}).
 
 First things first, encounter a few tasks(totally on stack overflows), read their source codes and use your brains to get the flag :)
 
