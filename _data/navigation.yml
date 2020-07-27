@@ -101,6 +101,8 @@ layouts:
     children:
       - title: Introduction to Game Hacking
         url:   /2020/07/27/Game-Hack-Introduction.html
+      - title: Writing a CS:GO Bhop script
+        url:   /2020/07/27/Writing-CSGO-Bhop-Script.html
   - title:      Assignments
     children:
       - title:  What are assignments
