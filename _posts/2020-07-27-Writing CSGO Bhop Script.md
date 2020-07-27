@@ -1,7 +1,7 @@
 ---
 title: Writing a CS:GO Bhop Script
 author: Rahul
-tags: binary-exploitation
+tags: game-hacking
 aside:
   toc: true
 sidebar:
