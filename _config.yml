@@ -18,8 +18,8 @@
 ##############################
 text_skin: "dark" # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: "tomorrow-night-bright" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : "https://csea-iitb.github.io"
-baseurl : "/IITBreachers-wiki"
+url     : "https://csea-iitb.github.io/IITBreachers-wiki"
+baseurl : ""
 title   : CTF-wiki
 description: > # this means to ignore newlines until "Language & timezone"
   CTF-wiki of IITBreachers
