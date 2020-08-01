@@ -341,9 +341,11 @@ Most CTF competitions are only online for a few days, limiting the ability of pl
 
 ## Cryptography
 
-### [CryptoHack](A fun platform for learning modern cryptography)
+### [CryptoHack](https://cryptohack.org/)
 A fun platform for learning modern cryptography
 {:.info}
+One of the most amazing cryptography sites with amazing UI and non-guessy amazing challenges.  
+It has the best discord community I have ever been into
 
 ### [Cryptopals](http://cryptopals.com/)
 This site will host all eight sets of our crypto challenges, with solutions in most mainstream languages.
