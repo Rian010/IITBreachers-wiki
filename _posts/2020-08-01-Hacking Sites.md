@@ -26,8 +26,34 @@ These are the sites which contain a broad range of challenges, usually on variou
 Wechall is an attempt to form a global ranking amongst other challenge sites. It has various challenges, but most importantly it serves as a gateway to other challenge/hacking sites.  
 `all`{:.success}
 
-### [Picoctf](https://picoctf.com/)
-Picoctf is a high school level annual 14 day ctf by CMU. It is one of the most popular CTFs with low entry barrier and servers running all year round! 
+
+
+### [TryHackMe](https://tryhackme.com/)
+Learning cybersecurity on TryHackMe is fun and addictive. Earn points by answering questions, taking on challenges and maintain your hacking streak through short lessons. 
+{:.info}
+
+### [HackTheBox](https://www.hackthebox.eu/)
+Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. 
+{:.info}
+
+### [RingZer0](https://ringzer0team.com/home)
+RingZer0 holds a plethora of challenges on various topics. Plus the site has gold based system giving the ability to unlock hints for challenges in exchange of gold.  
+RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
+{:.info}
+
+
+### [w3challs](https://w3challs.com/)
+Our community offers you security challenges to learn and practice hacking.
+Our goal is to provide fun and unique challenges running in a real world environment, with no guessing and no simulation! Our challenges address several subsets of hacking, mostly oriented on the offensive. A multitude of technologies and architectures are waiting for you. Show us your mad skillz and pop some shells (or calcs)!
+{:.info}
+
+W3Challs contains a wide variety of challenges which are good in quality with no guessing involved.
+
+### [ctflearn](https://ctflearn.com/)
+CTFlearn is an ethical hacking platform that enables tens of thousands to learn, practice, and compete. We host an ever-changing array of user-submitted and community-verified challenges in a wide range of topics. 
+{:.info}
+CTFlearn has an open community and a wide variety of community submitted challenges. Most of the challenges are on easier guessy side but good to get someone started.
+
 
 ### [netforce](https://www.net-force.nl/)
 Net-Force.nl is a website where people interested in (internet) security can play so-called 'hack challenges', read interesting articles about security and hacking and communicate with each other about these subjects via the forums or IRC. Visitors can register and participate in these hack-challenges, increase their skills and climb the ranks.
@@ -35,6 +61,7 @@ Net-Force.nl is a website where people interested in (internet) security can pla
 
 Net-Force.nl is an older sites, covering wide range of categories about
 `all`{:.success}
+
 
 
 ### [ModX](http://www.mod-x.co.uk/main.php)
@@ -55,30 +82,6 @@ WARNING! This site was created in 2006. It is here for historical purposes.
 Many of the levels are deprecated because they rely on old PHP flaws or involve third parties.
 {:.warning}
 
-### [RingZer0](https://ringzer0team.com/home)
-RingZer0 holds a plethora of challenges on various topics. Plus the site has gold based system giving the ability to unlock hints for challenges in exchange of gold.  
-RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
-{:.info}
-
-### [Backdoor](https://backdoor.sdslabs.co/)
-Backdoor is a platform for hackers to show their talent in a competitive environment. Earlier it was launched only within the IIT Roorkee campus, but now it has been made available for anyone over the internet.
-{:.info}
-It is a good archive of past backdoorctf challenges and other internal challenges of IITR.
-
-### [w3challs](https://w3challs.com/)
-Our community offers you security challenges to learn and practice hacking.
-Our goal is to provide fun and unique challenges running in a real world environment, with no guessing and no simulation! Our challenges address several subsets of hacking, mostly oriented on the offensive. A multitude of technologies and architectures are waiting for you. Show us your mad skillz and pop some shells (or calcs)!
-{:.info}
-
-W3Challs contains a wide variety of challenges which are good in quality with no guessing involved.
-
-### [ctflearn](https://ctflearn.com/)
-CTFlearn is an ethical hacking platform that enables tens of thousands to learn, practice, and compete. We host an ever-changing array of user-submitted and community-verified challenges in a wide range of topics. 
-{:.info}
-CTFlearn has an open community and a wide variety of community submitted challenges. Most of the challenges are on easier guessy side but good to get someone started.
-
-### [ctf365](https://ctf365.com/)
-CTF365 (Capture the flag 365) is a "security training platform for it industry" with a focus on security professionals, system administrators and web developers. 
 
 ### [viblo ctf](https://ctf.viblo.asia/landing)
 
@@ -123,8 +126,6 @@ Rankk is about solving challenges, discovering and learning new knowledge. It's 
 {:.info}
 
 ### [lost chall](http://www.lost-chall.org/)
-Lost, the most fantastic TV-Show out there.
-
 This site is a tribute for all fans of the show with some skills in Cryptography, Steganography, Programming, Reversing, Logic, Web-Security, Mathematical knowledge. There are 6 different levels and one master challenge. The first challenges, those where you have access at the beginning are easy. Then it gets more and more difficult up the level-tree. 
 {:.info}
 
@@ -160,6 +161,268 @@ Welcome to Security Traps. Here you can try challenges from different security d
 {:.info}
 
 
+
+### [hackerfire](https://ctf.hackerfire.com/)
+Welcome to HackerFire! A learning CTF from the developers of CTFd. Play around, don't be mean, and have fun. 
+{:.info}
+
+
+### [list brain](http://listbrain.awardspace.biz/)
+
+### [Hacking-Lab](https://www.hacking-lab.com/index.html)
+Hacking-Lab is a service by Security Competence GmbH, a Swiss subsidiary of Compass Security AG. Compass Security is a well renowned European company specializing in penetration testing, incident response, digital forensics, and security trainings. Our research and community contributions regularly gain international recognition. Our employees have presented at the highly regarded security conferences, such as Black Hat Las Vegas and Microsoft's invite only conference, called Blue Hat, in Redmond. With Hacking-Lab, the flagship project of Compass Security, a comprehensive attack/defense CTF system is provided to run the European Cyber Security Challenge. Hacking-Lab is licensed to numerous universities worldwide for educational purposes, with its aims of building young cyber talents as well as encouraging them to pursue a career in cyber security. Build your skills and join us for exciting challenges. www.compass-security.com
+{:.info}
+
+### [Hacker101](https://ctf.hacker101.com/)
+Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+{:.info}
+
+
+### [cyberseclabs](https://www.cyberseclabs.co.uk/)
+At CyberSecLabs, we aim to provide secure, high-quality training services that allow information security students the opportunity to safely learn and practice penetration testing skills.
+{:.info}
+
+
+
+### [Evilzone](https://evilzone.org/index.php?page=challenges)
+Evilzone used to have a forum, file hosting, multiple IRC servers and more. But due to lack of people, time and resources we are now focusing more on delivering services. For now Evilzone will mostly provide fun and educational hacking and security related challenges, with more services coming later.
+{:.info}
+
+### [try2hack](www.try2hack.nl/)
+This site provides several security-oriented challenges for your entertainment. It is actually one of the oldest challenge sites still around :) The challenges are diverse and get progressively harder. 
+{:.info}
+
+
+### [Hack me](https://hack.me/s/)
+Hack.me is a FREE, community based project powered by eLearnSecurity. You can think of it as a platform where the community can build, host and share vulnerable web application code for educational and research purposes. It aims to be the largest collection of "runnable" vulnerable web applications, code samples and CMS's online. The platform is available without any restriction to any party interested in Web Application Security.
+{:.info}
+
+### [Game of Hacks](http://www.gameofhacks.com/)
+This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible
+
+### [ESET](https://join.eset.com/en/challenges)
+You might have years of experience, or you might be just starting out, for us you are equally important and desirable. What we need are your skills, talent and initiative. If you’re interested in any of these positions and you think you have what it takes to do this job, we would like to talk to you. Send us the best examples of your previous work, or join the fun and solve the problem next to the position you would like to apply for.
+{:.info}
+
+
+### [thisislegal](https://thisislegal.com/)
+The aim of the site is to help you learn and improve as much as we can and also provide a community with a chance to chat. The site is always up for suggestions for improvement and any challenge submissions or tutorial content are also welcome so please help to improve our community. 
+{:.info}
+
+
+### [Hacking allowed](http://hacking.allowed.org/)
+
+### [Valhalla](https://halls-of-valhalla.org/beta/)
+
+### [microcontest](http://www.microcontest.com/?lang=en)
+µContest is a site proposing lots of programming challenges. This means you will find challenges you have to solve by creating programs in the language you want. You win a number of points when you validate a chall, depending on its difficulty. There are challenges for all levels so do not hesitate to register ;)
+{:.info}
+
+### [Stereotyped challenges](https://chall.stypr.com/)
+Hackers tend to have stereotypes about wargames; Many consider wargames as basic learning materials for new-comers of cyber security. Well, it's not completely true. I personally think wargames are supposed to be and meant to be very challenging, regardless of how they're good at it. So, here it is. This wargame is a little bit different to break your typical stereotypes. This wargame is intended for offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions.
+{:.info}
+
+
+### [gameofhacks](http://www.gameofhacks.com/)
+This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible.
+{:.info}
+
+
+### [Vulnhub](https://www.vulnhub.com/)
+To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration. 
+{:.info}
+
+### [Pentestit](https://lab.pentestit.ru/)
+Penetration testing laboratories "Test lab" emulate an IT infrastructure of real companies and are created for a legal pen testing and improving penetration testing skills.
+{:.info}
+
+
+### [ESET](https://join.eset.com/en/challenges)
+If you want to join the team that every day faces global cyber-threats, uncover a hidden puzzle in the crackme program and prove us your potential.
+{:.info}
+
+### [Pentest practice](https://www.pentestpractice.com/)
+"Practice makes Pwnage"
+
+
+### [netgarage IO](http://io.netgarage.org/)
+This is the frontpage of the IO wargame. IO is our most mature game, but is never the less in continually updated as technology develops. We provide recent radare2 and gdb builds. 
+
+
+### [Overthewire](http://overthewire.org/wargames/)
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. To find out more about a certain wargame, just visit its page linked from the menu on the left.
+{:.info}
+#### [bandit](https://overthewire.org/wargames/bandit/)
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames. If you notice something essential is missing or have ideas for new levels, please let us know!
+{:.success}
+
+#### [natas](https://overthewire.org/wargames/natas/)
+Natas teaches the basics of serverside web-security.
+{:.success}
+
+#### [leviathan](https://overthewire.org/wargames/leviathan/)
+Leviathan is a wargame that has been rescued from the demise of intruded.net, previously hosted on leviathan.intruded.net. Big thanks to adc, morla and reth for their help in resurrecting this game!
+{:.success}
+
+#### [krypton](https://overthewire.org/wargames/krypton/)
+The Krypton wargame.
+{:.success}
+
+#### [narnia](https://overthewire.org/wargames/narnia/)
+Narnia is a wargame that has been rescued from the demise of intruded.net, previously hosted on narnia.intruded.net. Big thanks to adc, morla and reth for their help in resurrecting this game!
+{:.success}
+
+#### [behemoth](https://overthewire.org/wargames/behemoth/)
+Behemoth is a wargame that has been rescued from the demise of intruded.net, previously hosted on behemoth.intruded.net. Big thanks to adc, morla and reth for their help in resurrecting this game!
+{:.success}
+
+#### [utumno](https://overthewire.org/wargames/utumno/)
+Utumno is a wargame that has been rescued from the demise of intruded.net, previously hosted on utumno.intruded.net. Big thanks to adc, morla and reth for their help in resurrecting this game!
+{:.success}
+
+#### [maze](https://overthewire.org/wargames/maze/)
+Maze is a wargame that has been rescued from the demise of intruded.net, previously hosted on maze.intruded.net. Big thanks to adc, morla and reth for their help in resurrecting this game!
+{:.success}
+
+#### [vortex](https://overthewire.org/wargames/vortex/)
+
+#### [semtex](https://overthewire.org/wargames/semtex/)
+This network is a legal environment where you can learn coding/hacking techniques without destroying anything. You have to solve Semtex 0 to get a username/password for login. Once logged in, you have to make your way from one level to the next, each one containing a small security hole/feature that has been installed for you. Your mission is to find out how to exploit the weakness and to cause interesting behavior :)
+{:.success}
+
+#### [manpage](https://overthewire.org/wargames/manpage/)
+Manpage is a wargame that has been rescued from the demise of intruded.net, previously hosted on manpage.intruded.net. Big thanks to adc, morla and reth for their help in resurrecting this game!
+{:.success}
+
+#### [drifter](https://overthewire.org/wargames/drifter/)
+Drifter is a wargame along the lines of Vortex.
+{:.success}
+
+### [Underthewire](http://www.underthewire.tech/wargames.htm) 
+Under the Wire trains experienced, developing, and novice Information Technologists to use Windows PowerShell in a variety of situations through innovative and fun wargames. 
+{:.info}
+
+
+### [ATNEA](https://atenea.ccn-cert.cni.es/home)
+ATENEA is a cyber security platform that presents a number of challenges which cover a wide array of topics: Cryptography and Steganography , Exploiting, Forensics , Networking and Reversing , etc.
+{:.info}
+
+## CTFs with servers up
+### [Picoctf](https://picoctf.com/)
+picoCTF is a free computer security game targeted at middle and high school students, created by security experts at Carnegie Mellon University. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge.
+{:.info}
+
+Picoctf is a high school level annual 14 day ctf by CMU. It is one of the most popular CTFs with low entry barrier and servers running all year round! 
+
+### [Backdoor](https://backdoor.sdslabs.co/)
+Backdoor is a platform for hackers to show their talent in a competitive environment. Earlier it was launched only within the IIT Roorkee campus, but now it has been made available for anyone over the internet.
+{:.info}
+It is a good archive of past backdoorctf challenges and other internal challenges of IITR.
+
+### [ctf365](https://ctf365.com/)
+CTF365 (Capture the flag 365) is a "security training platform for it industry" with a focus on security professionals, system administrators and web developers. 
+
+
+### [angstrom](https://angstromctf.com/)
+Welcome to ångstromCTF, a capture-the-flag (CTF) competition hosted and organized entirely by students at Montgomery Blair High School! CTF cybersecurity competitions have become an increasingly popular way for students to learn more about cybersecurity and develop and refine their hacking skills. These competitions are designed to educate and inspire high school students through interactive hacking challenges.
+{:.info}
+
+### [pactf](https://2019.pactf.com/)
+PACTF is an annual online computer security competition for middle and high school students.
+{:.info}
+
+### [SANS holiday hack](https://holidayhackchallenge.com/past-challenges/)
+The SANS holiday hack previous challenges
+
+### [247ctf](https://247ctf.com/)
+Most CTF competitions are only online for a few days, limiting the ability of players to access, solve and learn from the interesting problems created. The 247/CTF is an online, year-round, continuous learning environment.
+{:.info}
+
+
+## Cryptography
+
+### [CryptoHack](A fun platform for learning modern cryptography)
+A fun platform for learning modern cryptography
+{:.info}
+
+### [Cryptopals](http://cryptopals.com/)
+This site will host all eight sets of our crypto challenges, with solutions in most mainstream languages.
+
+### [id0 rsa](https://id0-rsa.pub/)
+Below are some problems related to computer security (specifically poorly implemented security). Do Them. You are free to use any language and environment you like to complete them. The problems require familiarity with programming, but not necessarily with applied cryptography or computer security in general.
+{:.info}
+
+### [Electrica](http://www.caesum.com/game/)
+Electrica is a puzzle/challenge site which has grown from two previous sites - C&C and the Cronos Crypto Challenge. 
+{:.info}
+
+### [try to decrypt](https://www.trytodecrypt.com/index.php)
+A nice short set of bootleg crypto
+
+### [Cryptoclub](https://www.cryptoclub.org/challenges/index.php)
+Crack mysterious messages, submit jokes for others to decrypt, and access secret messages within your private groups.
+
+### [mystery twister](https://www.mysterytwisterc3.org/en/)
+You like riddles? You always loved to solve the crosswords in your newspaper? Or maybe you are just curious and want to find out about some of the ways to hide a secret (and possibily even to uncover it)? This is your place! Here at MysteryTwister C3 you can solve crypto challenges, starting from the simple Caesar cipher all the way to modern AES we have challenges for everyone. Our challenges range from level I to III, and an additional level X for "mystery" challenges (they may have been unsolved for a long time, mostly we don't know their solution or have no idea whether there is a solution at all). If you are a beginner its probably best if you start trying those challenges that have been solved mostly (see table below). Additional information regarding MTC3 can be found on our about page.
+{:.info}
+
+## Reverse Engineering
+
+### [reversing.kr](http://reversing.kr/challenge.php)
+This site tests your ability to Cracking & Reverse Code Engineering.
+
+### [malwareTech](https://www.malwaretech.com/beginner-malware-reversing-challenges)
+The purpose of these challenges is to familiarize beginners with common malware techniques. 
+
+### [Crackmes.one](https://crackmes.one/)
+This is a simple place where you can download crackmes to improve your reverse engineering skills.
+
+### [Challenges.re](https://challenges.re/)
+Well, "challenges" is a loud word, these are rather just exercises for RE.
+
+### [Beginners.re](https://beginners.re)
+
+### [Reverseput as](https://reverse.put.as/crackmes/)
+A collection of crackmes for OS X. Send them to me if you have new ones to add!
+
+### [Flare-On](http://flare-on.com/)
+FireEye's challenge RE.
+
+### [AndroidAppRE](https://maddiestone.github.io/AndroidAppRE/)
+Welcome to AndroidTM App Reverse Engineering 101! This workshop’s goal is to give you the foundations to begin reverse engineering Android applications. While this workshop won’t teach you the details of Android app development, Android malware analysis, Android vulnerability hunting, etc., I hope to give you all the necessary foundations through this workshop such that you can apply your new Android reversing skills to doing those things.
+{:.info}
+
+
+
+## Binary Exploitation
+
+### [microcorruption](https://microcorruption.com/)
+Given a debugger and a device, find an input that unlocks it. Solve the level with that input.
+
+### [Ropemporium](https://ropemporium.com/)
+Learn return-oriented programming through a series of challenges designed to teach ROP techniques in isolation, with minimal reverse-engineering and bug-hunting.
+
+### [pwn adventure](http://pwnadventure.com/)
+Pwn Adventure 3: Pwnie Island is a limited-release, first-person, true open-world MMORPG set on a beautiful island where anything could happen. That's because this game is intentionally vulnerable to all kinds of silly hacks! Flying, endless cash, and more are all one client change or network proxy away. Are you ready for the mayhem?!
+
+### [Exploit education](https://exploit.education/)
+exploit.education provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
+
+### [pwnable.kr](http://pwnable.kr/play.php)
+'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. the main purpose of pwnable.kr is 'fun'.please consider each of the challenges as a game. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.
+
+### [Pwnable.xyz](https://pwnable.xyz/)
+Here you will find pwnables for beginners. Most of the challenges were created for an internal event at our ctf team OpenToAll. Eventually I grew fond of the idea of hosting them publicly, so this website was born. Some challenges will have multiple variations with progressive difficulty, I hope you enjoy them all.
+{:.info}
+
+### [Smash the stack](http://smashthestack.org/wargames.html)
+Smash the stack Wargaming network
+
+### [Pwnable.tw](https://pwnable.tw/challenge/)
+Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills.
+
+## Web
+
 ### [websec.fr](http://websec.fr/)
 because you can't resist a good: .php?id=
 {:.info}
@@ -185,30 +448,16 @@ It helps security enthusiasts, developers and students to discover and to preven
 bWAPP prepares one to conduct successful penetration testing and ethical hacking projects. What makes bWAPP so unique? Well, it has over 100 web vulnerabilities!
 {:.info}
 
-### [hackerfire](https://ctf.hackerfire.com/)
-Welcome to HackerFire! A learning CTF from the developers of CTFd. Play around, don't be mean, and have fun. 
+### [Tasteless challenges](http://chall.tasteless.eu/)
+I have prepared several levels here that will test your knowledge in diffrent ways. Also you will be tested in some ways of logical thinking and exploiting not so obvious security holes. Apart from those well known sql injection vulnerabilities I prepared some level where you wont be able just to put some sql commands. I hope this will be, at least for some of you, fun and you will enjoy all.
 {:.info}
 
-### [NoobInfoseclabs](http://ctf.infosecinstitute.com/index.php)
-The Infosec Instite n00bs CTF Labs is a web application that hosts 15 mini Capture the Flag (CTF) challenges intended for beginners. The levels can be navigated in the navbar. There is no scoring or leaderboard, but to claim the bounty for each level (bounties range from $10 to $150) you'll need to write up the solution and any other helpful instructions or information and post that in a public place (blog, forum, etc.). If you don't have a place to post it...ask a friend! 
+### [gruyere](http://google-gruyere.appspot.com/)
+This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks.
 {:.info}
 
-### [list brain](http://listbrain.awardspace.biz/)
-
-### [Hacking-Lab](https://www.hacking-lab.com/index.html)
-Hacking-Lab is a service by Security Competence GmbH, a Swiss subsidiary of Compass Security AG. Compass Security is a well renowned European company specializing in penetration testing, incident response, digital forensics, and security trainings. Our research and community contributions regularly gain international recognition. Our employees have presented at the highly regarded security conferences, such as Black Hat Las Vegas and Microsoft's invite only conference, called Blue Hat, in Redmond. With Hacking-Lab, the flagship project of Compass Security, a comprehensive attack/defense CTF system is provided to run the European Cyber Security Challenge. Hacking-Lab is licensed to numerous universities worldwide for educational purposes, with its aims of building young cyber talents as well as encouraging them to pursue a career in cyber security. Build your skills and join us for exciting challenges. www.compass-security.com
-{:.info}
-
-### [Hacker101](https://ctf.hacker101.com/)
-Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
-{:.info}
-
-### [WebGoat](http://webappsecmovies.sourceforge.net/webgoat/)
-WebGoat is a deliberately insecure application that allows interested developers just like you to test vulnerabilities commonly found in Java-based applications that use common and popular open source components.
-{:.info}
-
-### [cyberseclabs](https://www.cyberseclabs.co.uk/)
-At CyberSecLabs, we aim to provide secure, high-quality training services that allow information security students the opportunity to safely learn and practice penetration testing skills.
+### [Redtiger hackit](https://redtiger.labs.overthewire.org/)
+It has some similarities to h0yt3r's and shadowleet's sql-injection hackits but it will also test you in some logical ways of thinking. All levels are based on real vulnerabilitys I found in the wild.
 {:.info}
 
 ### [flAWS](http://flaws.cloud/)
@@ -219,201 +468,36 @@ Through a series of levels you'll learn about common mistakes and gotchas when u
 Similar to the original flAWS.cloud (also created by Summit Route), this game/tutorial teaches you AWS (Amazon Web Services) security concepts. The challenges are focused on AWS specific issues, so no buffer overflows, XSS, etc. You can play by getting hands-on-keyboard or just click through the hints to learn the concepts and go from one level to the next without playing.
 {:.info}
 
-### [AndroidAppRE](https://maddiestone.github.io/AndroidAppRE/)
-Welcome to AndroidTM App Reverse Engineering 101! This workshop’s goal is to give you the foundations to begin reverse engineering Android applications. While this workshop won’t teach you the details of Android app development, Android malware analysis, Android vulnerability hunting, etc., I hope to give you all the necessary foundations through this workshop such that you can apply your new Android reversing skills to doing those things.
+### [WebGoat](http://webappsecmovies.sourceforge.net/webgoat/)
+WebGoat is a deliberately insecure application that allows interested developers just like you to test vulnerabilities commonly found in Java-based applications that use common and popular open source components.
 {:.info}
-
 
 ### [Lord Of SQLi](https://los.rubiya.kr/)
 A site specifically focussed on SQL Injections
 
-### [Evilzone](https://evilzone.org/index.php?page=challenges)
-Evilzone used to have a forum, file hosting, multiple IRC servers and more. But due to lack of people, time and resources we are now focusing more on delivering services. For now Evilzone will mostly provide fun and educational hacking and security related challenges, with more services coming later.
-{:.info}
-
-### [try2hack](www.try2hack.nl/)
-This site provides several security-oriented challenges for your entertainment. It is actually one of the oldest challenge sites still around :) The challenges are diverse and get progressively harder. 
-{:.info}
-
-### [247ctf](https://247ctf.com/)
-Most CTF competitions are only online for a few days, limiting the ability of players to access, solve and learn from the interesting problems created. The 247/CTF is an online, year-round, continuous learning environment.
-{:.info}
-
-### [Hack me](https://hack.me/s/)
-Hack.me is a FREE, community based project powered by eLearnSecurity. You can think of it as a platform where the community can build, host and share vulnerable web application code for educational and research purposes. It aims to be the largest collection of "runnable" vulnerable web applications, code samples and CMS's online. The platform is available without any restriction to any party interested in Web Application Security.
-{:.info}
-
-### [Game of Hacks](http://www.gameofhacks.com/)
-This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible
-
-### [ESET](https://join.eset.com/en/challenges)
-You might have years of experience, or you might be just starting out, for us you are equally important and desirable. What we need are your skills, talent and initiative. If you’re interested in any of these positions and you think you have what it takes to do this job, we would like to talk to you. Send us the best examples of your previous work, or join the fun and solve the problem next to the position you would like to apply for.
-{:.info}
-
 ### [DVWA](http://www.dvwa.co.uk/)
 Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.
-{:.info}
-
-
-### [thisislegal](https://thisislegal.com/)
-The aim of the site is to help you learn and improve as much as we can and also provide a community with a chance to chat. The site is always up for suggestions for improvement and any challenge submissions or tutorial content are also welcome so please help to improve our community. 
-{:.info}
-
-### [gruyere](http://google-gruyere.appspot.com/)
-This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks.
 {:.info}
 
 ### [Hacker test](http://www.hackertest.net/)
 HackerTest.net is your own online hacker simulation. With 20 levels that require different skills to get to another step of the game, this new real-life imitation will help you advance your security knowledge. HackerTest.net will help you improve your JavaScript, PHP, HTML and graphic thinking in a fun way that will entertain any visitor!
 {:.info}
 
-
-### [TryHackMe](https://tryhackme.com/)
-Learning cybersecurity on TryHackMe is fun and addictive. Earn points by answering questions, taking on challenges and maintain your hacking streak through short lessons. 
+### [NoobInfoseclabs](http://ctf.infosecinstitute.com/index.php)
+The Infosec Instite n00bs CTF Labs is a web application that hosts 15 mini Capture the Flag (CTF) challenges intended for beginners. The levels can be navigated in the navbar. There is no scoring or leaderboard, but to claim the bounty for each level (bounties range from $10 to $150) you'll need to write up the solution and any other helpful instructions or information and post that in a public place (blog, forum, etc.). If you don't have a place to post it...ask a friend! 
 {:.info}
 
-
-### [Hacking allowed](http://hacking.allowed.org/)
-
-### [Valhalla](https://halls-of-valhalla.org/beta/)
-
-### [microcontest](http://www.microcontest.com/?lang=en)
-µContest is a site proposing lots of programming challenges. This means you will find challenges you have to solve by creating programs in the language you want. You win a number of points when you validate a chall, depending on its difficulty. There are challenges for all levels so do not hesitate to register ;)
-{:.info}
-
-### [Redtiger hackit](https://redtiger.labs.overthewire.org/)
-It has some similarities to h0yt3r's and shadowleet's sql-injection hackits but it will also test you in some logical ways of thinking. All levels are based on real vulnerabilitys I found in the wild.
-{:.info}
-
-### [Stereotyped challenges](https://chall.stypr.com/)
-Hackers tend to have stereotypes about wargames; Many consider wargames as basic learning materials for new-comers of cyber security. Well, it's not completely true. I personally think wargames are supposed to be and meant to be very challenging, regardless of how they're good at it. So, here it is. This wargame is a little bit different to break your typical stereotypes. This wargame is intended for offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions.
-{:.info}
-
-### [Tasteless challenges](http://chall.tasteless.eu/)
-I have prepared several levels here that will test your knowledge in diffrent ways. Also you will be tested in some ways of logical thinking and exploiting not so obvious security holes. Apart from those well known sql injection vulnerabilities I prepared some level where you wont be able just to put some sql commands. I hope this will be, at least for some of you, fun and you will enjoy all.
-{:.info}
-
-### [gameofhacks](http://www.gameofhacks.com/)
-This game was designed to test your application hacking skills. You will be presented with vulnerable pieces of code and your mission if you choose to accept it is to find which vulnerability exists in that code as quickly as possible.
-{:.info}
-
-### [HackTheBox](https://www.hackthebox.eu/)
-Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. 
-{:.info}
-
-
-### [Vulnhub](https://www.vulnhub.com/)
-To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration. 
-{:.info}
-
-### [Pentestit](https://lab.pentestit.ru/)
-Penetration testing laboratories "Test lab" emulate an IT infrastructure of real companies and are created for a legal pen testing and improving penetration testing skills.
-{:.info}
-
-### [microcorruption](https://microcorruption.com/)
-Given a debugger and a device, find an input that unlocks it. Solve the level with that input.
-
-### [reversing.kr](http://reversing.kr/challenge.php)
-This site tests your ability to Cracking & Reverse Code Engineering.
-
-### [malwareTech](https://www.malwaretech.com/beginner-malware-reversing-challenges)
-The purpose of these challenges is to familiarize beginners with common malware techniques. 
-
-### [Crackmes.one](https://crackmes.one/)
-This is a simple place where you can download crackmes to improve your reverse engineering skills.
-
-### [Challenges.re](https://challenges.re/)
-Well, "challenges" is a loud word, these are rather just exercises for RE.
-
-### [Beginners.re](https://beginners.re)
-
-### [Reverseput as](https://reverse.put.as/crackmes/)
-A collection of crackmes for OS X. Send them to me if you have new ones to add!
-
-### [ESET](https://join.eset.com/en/challenges)
-If you want to join the team that every day faces global cyber-threats, uncover a hidden puzzle in the crackme program and prove us your potential.
-
-### [angstrom](https://angstromctf.com/)
-
-### [pactf](https://2019.pactf.com/)
-
-
-
-### [Flare-On](http://flare-on.com/)
-FireEye's challenge RE.
-
-### [Ropemporium](https://ropemporium.com/)
-Learn return-oriented programming through a series of challenges designed to teach ROP techniques in isolation, with minimal reverse-engineering and bug-hunting.
-
-### [atnea](https://atenea.ccn-cert.cni.es/home)
-
-### [pwn adventure](http://pwnadventure.com/)
-Pwn Adventure 3: Pwnie Island is a limited-release, first-person, true open-world MMORPG set on a beautiful island where anything could happen. That's because this game is intentionally vulnerable to all kinds of silly hacks! Flying, endless cash, and more are all one client change or network proxy away. Are you ready for the mayhem?!
-
-### [Exploit education](https://exploit.education/)
-exploit.education provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
-
-### [pwnable.kr](http://pwnable.kr/play.php)
-'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. the main purpose of pwnable.kr is 'fun'.please consider each of the challenges as a game. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.
-
-### [Pwnable.xyz](https://pwnable.xyz/)
-Here you will find pwnables for beginners. Most of the challenges were created for an internal event at our ctf team OpenToAll. Eventually I grew fond of the idea of hosting them publicly, so this website was born. Some challenges will have multiple variations with progressive difficulty, I hope you enjoy them all.
-{:.info}
-
-### [SANS holiday hack](https://holidayhackchallenge.com/2019/)
-
-### [Pwnable.tw](https://pwnable.tw/challenge/)
-Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills.
-
-### [Pentest practice](https://www.pentestpractice.com/)
-"Practice makes Pwnage"
-
-### [ae37ff](https://ae27ff.meme.tips/about.php)
-Since April 2015, this website has served as a set of levels that simulate challenges and puzzles that one may encounter during an ARG (Alternate Reality Game) including simple ciphers, steganography, different types of encodings, and familiarity with internet resources. Each level consists of some text, images, data, or files that is intended to lead you to the next page with some amount of investigation.
-{:.info}
-
-### [netgarage IO](http://io.netgarage.org/)
-This is the frontpage of the IO wargame. IO is our most mature game, but is never the less in continually updated as technology develops. We provide recent radare2 and gdb builds. 
-
-### [Smash the stack](http://smashthestack.org/wargames.html)
-Smash the stack Wargaming network
-
-### [Overthewire](http://overthewire.org/wargames/)
-The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. To find out more about a certain wargame, just visit its page linked from the menu on the left.
-{:.info}
-
-### [Underthewire](http://www.underthewire.tech/wargames.htm) 
-Under the Wire trains experienced, developing, and novice Information Technologists to use Windows PowerShell in a variety of situations through innovative and fun wargames. 
-{:.info}
-
-### [CryptoHack](A fun platform for learning modern cryptography)
-A fun platform for learning modern cryptography
-{:.info}
-
-### [Cryptopals](http://cryptopals.com/)
-This site will host all eight sets of our crypto challenges, with solutions in most mainstream languages.
-
-### [id0 rsa](https://id0-rsa.pub/)
-Below are some problems related to computer security (specifically poorly implemented security). Do Them. You are free to use any language and environment you like to complete them. The problems require familiarity with programming, but not necessarily with applied cryptography or computer security in general.
-{:.info}
-
-
-### [Electrica](http://www.caesum.com/game/)
-Electrica is a puzzle/challenge site which has grown from two previous sites - C&C and the Cronos Crypto Challenge. 
-{:.info}
-
-### [try to decrypt](https://www.trytodecrypt.com/index.php)
-A nice short set of bootleg crypto
-
-### [Cryptoclub](https://www.cryptoclub.org/challenges/index.php)
-Crack mysterious messages, submit jokes for others to decrypt, and access secret messages within your private groups.
-
-
-### [mystery twister](https://www.mysterytwisterc3.org/en/)
-You like riddles? You always loved to solve the crosswords in your newspaper? Or maybe you are just curious and want to find out about some of the ways to hide a secret (and possibily even to uncover it)? This is your place! Here at MysteryTwister C3 you can solve crypto challenges, starting from the simple Caesar cipher all the way to modern AES we have challenges for everyone. Our challenges range from level I to III, and an additional level X for "mystery" challenges (they may have been unsolved for a long time, mostly we don't know their solution or have no idea whether there is a solution at all). If you are a beginner its probably best if you start trying those challenges that have been solved mostly (see table below). Additional information regarding MTC3 can be found on our about page.
-{:.info}
+## Forensics
 
 ### [forensics contest](https://forensicscontest.com/)
 PCAP forensics
 
-### [amanhardikar](https://www.amanhardikar.com/mindmaps/ForensicChallenges
+### [amanhardikar](https://www.amanhardikar.com/mindmaps/ForensicChallenges)
+For various forensics challenges and mindmap
+
+
+## ARG
+
+### [ae37ff](https://ae27ff.meme.tips/about.php)
+Since April 2015, this website has served as a set of levels that simulate challenges and puzzles that one may encounter during an ARG (Alternate Reality Game) including simple ciphers, steganography, different types of encodings, and familiarity with internet resources. Each level consists of some text, images, data, or files that is intended to lead you to the next page with some amount of investigation.
+{:.info}
