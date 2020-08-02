@@ -200,6 +200,10 @@ defaults:
       show_subscribe: true
       pageview: true
 
+feed:
+  excerpt_only: true
+  tags: true
+
 
 ## => Plugins
 ##############################
