@@ -204,6 +204,8 @@ feed:
   excerpt_only: true
   tags: true
 
+stickyposts:
+  sort: "importance"
 
 ## => Plugins
 ##############################
@@ -212,3 +214,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-stickyposts
