@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: landing
 tags: welcome introduction
 excerpt_separator: <!--more-->
 key: home-page
@@ -9,6 +9,7 @@ sidebar:
   nav: layouts
 ---
 
+okay
 # [Welcome](https://csea-iitb.github.io/IITBreachers-wiki/2040/01/01/welcome.html)
 
 # [What Are CTFs](https://csea-iitb.github.io/IITBreachers-wiki/2039/01/01/What-Are-CTFs.html)
