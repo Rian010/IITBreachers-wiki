@@ -3,10 +3,9 @@ layout: landing
 tags: welcome introduction
 excerpt_separator: <!--more-->
 key: home-page
-aside:
-  toc: true
 sidebar:
   nav: layouts
+comments: false
 ---
 
 okay
