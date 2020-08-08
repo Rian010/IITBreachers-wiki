@@ -1,18 +1,18 @@
 ---
-layout: landing
+layout: page
 tags: welcome introduction
 excerpt_separator: <!--more-->
 key: home-page
-sidebar:
-  nav: layouts
-comments: false
+comment: false
 ---
 
-okay
-# [Welcome](https://csea-iitb.github.io/IITBreachers-wiki/2040/01/01/welcome.html)
+# [Hello World!]
+Lets get started!
 
-# [What Are CTFs](https://csea-iitb.github.io/IITBreachers-wiki/2039/01/01/What-Are-CTFs.html)
+## [Welcome](https://csea-iitb.github.io/IITBreachers-wiki/2040/01/01/welcome.html)
 
-# [Hacking Sites](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
+## [What Are CTFs](https://csea-iitb.github.io/IITBreachers-wiki/2039/01/01/What-Are-CTFs.html)
 
-# [Contribute](https://csea-iitb.github.io/IITBreachers-wiki/2037/01/01/contributions.html)
+## [Hacking Sites](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
+
+## [Contribute](https://csea-iitb.github.io/IITBreachers-wiki/2037/01/01/contributions.html)
