@@ -10,6 +10,7 @@ sidebar:
   nav: layouts
 excerpt_separator: <!--more-->
 author: deuterium
+date: 2020-08-01
 key: assignment000001
 ---
 
