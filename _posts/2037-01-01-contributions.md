@@ -5,6 +5,7 @@ aside:
 sidebar:
   nav: layouts
 author: deuterium
+date: 2020-08-01
 excerpt_separator: <!--more-->
 key: contribution0001
 ---
