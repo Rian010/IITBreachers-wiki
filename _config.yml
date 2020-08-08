@@ -105,7 +105,7 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: addthis # false (default), "addtoany", "addthis", "custom"
+  provider: # false addthis # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
@@ -205,6 +205,7 @@ feed:
   tags: true
 
 stickyposts:
+  enabled: true
   sort: "importance"
 
 ## => Plugins
