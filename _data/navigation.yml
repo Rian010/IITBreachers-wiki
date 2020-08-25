@@ -76,7 +76,7 @@ layouts:
         url:   /2020/07/22/authentication.html
       - title: XXE Injection
         url:   /2020/07/22/XXE.html
-      - title: Cross Site Scription (XSS)
+      - title: Cross Site Scripting (XSS)
         url:   /2020/07/22/XSS.html
       - title: SQL Injection
         url:   /2020/07/22/Sql-injections.html
