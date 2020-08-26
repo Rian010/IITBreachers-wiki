@@ -52,15 +52,15 @@ layouts:
   - title:      Introduction
     children:
       - title:  Welcome
-        url:    /2040/01/01/welcome.html
+        url:    /2020/08/01/welcome.html
       - title:  What are CTFs?
-        url:    /2039/01/01/What-Are-CTFs.html
+        url:    /2020/08/01/What-Are-CTFs.html
       - title:  What are Assigments?
-        url:    /2038/07/17/what-are-assignments.html
+        url:    /2020/08/01/what-are-assignments.html
       - title:  Hacking Sites
         url:    /2020/08/01/Hacking-Sites.html
       - title:  Contribute
-        url:    /2037/01/01/contributions.html
+        url:    /2020/08/01/contributions.html
   - title:      Resources
   - title:  Reverse Engineering
     url:    /archive.html?tag=reverse-engineering
