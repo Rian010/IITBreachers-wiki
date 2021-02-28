@@ -24,7 +24,7 @@ Now let's begin.
 ## Writing a Simple Module
 Kernel modules are written in C. As always let's start with writing Hello World!. The code for this is:
 
-```C
+```
 #include <linux/init.h>
 #include <linux/kernel.h>
 #include <linux/module.h>
