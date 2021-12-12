@@ -33,7 +33,7 @@ sidebar:
 ---
 
 
-Welcome to ctf-wiki and assignments page of [CSE Cybersecurity Club, IIT Bombay](https://www.facebook.com/groups/csec.iitb)  
+Welcome to ctf-wiki and assignments page of [Cybersecurity Club, IIT Bombay](https://linktr.ee/csec.iitb)  
 <!--more-->
 We are a bunch of cybersecurity enthusiasts who actively play Capture the Flag competitions under team name [IITBreachers](https://ctftime.org/team/81901)  
 We want to spread our unconditional love towards cybersecurity through various tutorials, assignemnts, challenges and most importantly by participating in CTFs together.  
@@ -49,7 +49,7 @@ There will be enough of
 Move out to relevant sections or search the relevant tags.  
 
 ## Seek discussions?
-Join our dedicated [discord server](https://discord.gg/VVJN73w) for awesome discussions, general chat and participating with us in CTFs :smiley:
+Join our dedicated [discord server](https://discord.gg/eHGwP6CGSy) for awesome discussions, general chat and participating with us in CTFs :smiley:
 
 ## Suggestions
 If you have any suggestions about the content, some cool assignment to propose or some more content to add, we got you covered!  
