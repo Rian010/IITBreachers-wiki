@@ -21,7 +21,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /index.html
+    url: /archive.html
 
   - titles:
       # @start locale config
