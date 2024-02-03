@@ -5,16 +5,16 @@ excerpt_separator: <!--more-->
 key: home-page
 show_title: false
 comment: false
-cover: https://images.app.goo.gl/kb4Xc2GpRBWeHHrA8 #https://github.com/CSEA-IITB/IITBreachers-wiki/blob/master/assets/mstile-310x310.png?raw=1
+cover: https://avatars.githubusercontent.com/u/89960876?s=96&v=4 #https://github.com/CSEA-IITB/IITBreachers-wiki/blob/master/assets/mstile-310x310.png?raw=1
 ---
 
 # Welcome Hackers!
 We cant wait to see you rolling, lets get started!
 
-## Welcome
+## CTF-wiki
 Welcome to ctf-wiki and assignments page of CSE Cybersecurity Club, IIT Bombay
 
-[Read More](https://rian010.github.io/IITBreachers-wiki/2020/08/01/welcome.html)
+[Read More](https://rian010.github.io/IITBreachers-wiki/2020/08/01/CTF-wiki.html)
 
 ## What Are CTFs
 CTF or Capture The Flag in context of computer security, are special kind of information security competitions which serve as a gamified educational exercise to give participants experience in securing a machine as well as conducting and reacting to sort of attacks found in real world or some (supposedly) fun programming concept otherwise.

@@ -37,7 +37,7 @@ author:
   type      : "person"
   name      : YAN #deuterium
   url       : https://rian010.github.io/
-  avatar    : https://images.app.goo.gl/2Mvggv9Ahoh6iJVCA #https://github.com/deut-erium/deut-erium.github.io/blob/master/Circle-limit-IV.jpg?raw=1
+  avatar    : https://avatars.githubusercontent.com/u/89960876?s=96&v=4  #https://github.com/deut-erium/deut-erium.github.io/blob/master/Circle-limit-IV.jpg?raw=1
   bio       : YAN Sites #Breachers from IITB
   email     : mhmmriann@gmail.com #zehrileLaunde@protonmail.com
   facebook  : #groups/csec.iitb # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -170,7 +170,7 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : "UA-161905683-3" # Google Analytics id for the site
+    tracking_id : # "UA-161905683-3" # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
