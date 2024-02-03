@@ -1,5 +1,7 @@
 header:
   - titles:
+    - title:      Home
+    url:        /home/
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
