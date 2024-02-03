@@ -51,8 +51,8 @@ header:
 layouts:
   - title:      Introduction
     children:
-      - title:  Welcome
-        url:    /2020/08/01/welcome.html
+      - title:  CTF-wiki
+        url:    /2020/08/01/CTF-wiki.html
       - title:  What are CTFs?
         url:    /2020/08/01/What-Are-CTFs.html
       - title:  What are Assigments?
