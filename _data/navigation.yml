@@ -1,7 +1,10 @@
 header:
 # @start locale config
      
-
+- titles:
+      # @start locale config
+      en      : &EN       Archive
+      url: https://rian010.github.io/
   - titles:
       # @start locale config
       en      : &EN       Archive
